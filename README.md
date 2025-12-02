@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Over 6 years of hands-on experience building scalable, user-centric mobile applications across industries:
+### 🚀 Over 7+ years of hands-on experience building scalable, user-centric mobile applications across industries:
 - Mobile Applications
 - Backend Development
 
